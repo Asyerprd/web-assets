@@ -1,0 +1,38 @@
+[
+    {
+        "image": "images/slide1.jpg",
+        "serving_weight_1": "7g",
+        "nutrition_1":"GLUTAMINE",
+        "nutrition_value_1":"Glutamin membantu pemulihan otot, dukung imun, jaga usus, dan seimbangkan asam-basa. Ideal untuk kurangi nyeri otot dan tingkatkan daya tahan tubuh.",
+        "serving_weight_2": "25g",
+        "nutrition_2":"PROTEIN",
+        "nutrition_value_2":"Meningkatkan Pertumbuhan Otot Menyediakan blok pembangun esensial (asam amino).",
+        "serving_weight_3": "4.5g",
+        "nutrition_3":"BCAA",
+        "nutrition_value_3":"BCAA mendukung pertumbuhan otot, pemulihan, dan mengurangi kelelahan. Leusin, Isoleusin, dan Valin menjaga energi serta kurangi nyeri otot."
+    },
+    {
+        "image": "images/slide1.jpg",
+        "serving_weight_1": "7g",
+        "nutrition_1":"GLUTAMINE",
+        "nutrition_value_1":"Glutamin membantu pemulihan otot, dukung imun, jaga usus, dan seimbangkan asam-basa. Ideal untuk kurangi nyeri otot dan tingkatkan daya tahan tubuh.",
+        "serving_weight_2": "7g",
+        "nutrition_2":"GLUTAMINE",
+        "nutrition_value_2":"Glutamin membantu pemulihan otot, dukung imun, jaga usus, dan seimbangkan asam-basa. Ideal untuk kurangi nyeri otot dan tingkatkan daya tahan tubuh.",
+        "serving_weight_3": "7g",
+        "nutrition_3":"GLUTAMINE",
+        "nutrition_value_3":"Glutamin membantu pemulihan otot, dukung imun, jaga usus, dan seimbangkan asam-basa. Ideal untuk kurangi nyeri otot dan tingkatkan daya tahan tubuh."
+    },
+    {
+        "image": "images/slide1.jpg",
+        "serving_weight_1": "7g",
+        "nutrition_1":"GLUTAMINE",
+        "nutrition_value_1":"Glutamin membantu pemulihan otot, dukung imun, jaga usus, dan seimbangkan asam-basa. Ideal untuk kurangi nyeri otot dan tingkatkan daya tahan tubuh.",
+        "serving_weight_2": "7g",
+        "nutrition_2":"GLUTAMINE",
+        "nutrition_value_2":"Glutamin membantu pemulihan otot, dukung imun, jaga usus, dan seimbangkan asam-basa. Ideal untuk kurangi nyeri otot dan tingkatkan daya tahan tubuh.",
+        "serving_weight_3": "7g",
+        "nutrition_3":"GLUTAMINE",
+        "nutrition_value_3":"Glutamin membantu pemulihan otot, dukung imun, jaga usus, dan seimbangkan asam-basa. Ideal untuk kurangi nyeri otot dan tingkatkan daya tahan tubuh."
+    }
+]
