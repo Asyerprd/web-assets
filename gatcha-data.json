@@ -41,6 +41,174 @@
         "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5b6666eab2f9b50f7_open-red-ball.avif",
         "color": "#FF5B55"
       }
+    },
+    {
+      "id": "card_004",
+      "name": "Yellow Card",
+      "rarity": "common",
+      "type": "character",
+      "weight": 60,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecfd1bb2fe74d0b5e7_yellow%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecebec6cbaa546189a_yellowcupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f57ea5275f161c92fe_yellow-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f540fc5cdfe4dad68e_open-yellow-ball.avif",
+        "color": "#fcfb4a"
+      }
+    },
+    {
+      "id": "card_005",
+      "name": "Blue Card",
+      "rarity": "rare",
+      "type": "character",
+      "weight": 25,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec889c6cbcb5ef899a_blue%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec7e03cc2bb42663ba_bluecupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f546b91ffbdb6a5adb_blue-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f6b96b5312837d4ca4_open-blue-ball.avif",
+        "color": "#53BCFF"
+      }
+    },
+    {
+      "id": "card_006",
+      "name": "Red Card",
+      "rarity": "legendary",
+      "type": "character",
+      "weight": 5,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec662e912b47e5cf5b_pink%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec2adad882fd843291_purple%20cupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5eb74521cc36bf3d6_red-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5b6666eab2f9b50f7_open-red-ball.avif",
+        "color": "#FF5B55"
+      }
+    },
+    {
+      "id": "card_007",
+      "name": "Yellow Card",
+      "rarity": "common",
+      "type": "character",
+      "weight": 60,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecfd1bb2fe74d0b5e7_yellow%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecebec6cbaa546189a_yellowcupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f57ea5275f161c92fe_yellow-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f540fc5cdfe4dad68e_open-yellow-ball.avif",
+        "color": "#fcfb4a"
+      }
+    },
+    {
+      "id": "card_008",
+      "name": "Blue Card",
+      "rarity": "rare",
+      "type": "character",
+      "weight": 25,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec889c6cbcb5ef899a_blue%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec7e03cc2bb42663ba_bluecupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f546b91ffbdb6a5adb_blue-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f6b96b5312837d4ca4_open-blue-ball.avif",
+        "color": "#53BCFF"
+      }
+    },
+    {
+      "id": "card_009",
+      "name": "Red Card",
+      "rarity": "legendary",
+      "type": "character",
+      "weight": 5,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec662e912b47e5cf5b_pink%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec2adad882fd843291_purple%20cupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5eb74521cc36bf3d6_red-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5b6666eab2f9b50f7_open-red-ball.avif",
+        "color": "#FF5B55"
+      }
+    },
+    {
+      "id": "card_010",
+      "name": "Yellow Card",
+      "rarity": "common",
+      "type": "character",
+      "weight": 60,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecfd1bb2fe74d0b5e7_yellow%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecebec6cbaa546189a_yellowcupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f57ea5275f161c92fe_yellow-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f540fc5cdfe4dad68e_open-yellow-ball.avif",
+        "color": "#fcfb4a"
+      }
+    },
+    {
+      "id": "card_011",
+      "name": "Blue Card",
+      "rarity": "rare",
+      "type": "character",
+      "weight": 25,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec889c6cbcb5ef899a_blue%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec7e03cc2bb42663ba_bluecupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f546b91ffbdb6a5adb_blue-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f6b96b5312837d4ca4_open-blue-ball.avif",
+        "color": "#53BCFF"
+      }
+    },
+    {
+      "id": "card_012",
+      "name": "Red Card",
+      "rarity": "legendary",
+      "type": "character",
+      "weight": 5,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec662e912b47e5cf5b_pink%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec2adad882fd843291_purple%20cupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5eb74521cc36bf3d6_red-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5b6666eab2f9b50f7_open-red-ball.avif",
+        "color": "#FF5B55"
+      }
+    },
+    {
+      "id": "card_013",
+      "name": "Yellow Card",
+      "rarity": "common",
+      "type": "character",
+      "weight": 60,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecfd1bb2fe74d0b5e7_yellow%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecebec6cbaa546189a_yellowcupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f57ea5275f161c92fe_yellow-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f540fc5cdfe4dad68e_open-yellow-ball.avif",
+        "color": "#fcfb4a"
+      }
+    },
+    {
+      "id": "card_014",
+      "name": "Blue Card",
+      "rarity": "rare",
+      "type": "character",
+      "weight": 25,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec889c6cbcb5ef899a_blue%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec7e03cc2bb42663ba_bluecupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f546b91ffbdb6a5adb_blue-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f6b96b5312837d4ca4_open-blue-ball.avif",
+        "color": "#53BCFF"
+      }
+    },
+    {
+      "id": "card_015",
+      "name": "Red Card",
+      "rarity": "legendary",
+      "type": "character",
+      "weight": 5,
+      "assets": {
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec662e912b47e5cf5b_pink%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec2adad882fd843291_purple%20cupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5eb74521cc36bf3d6_red-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f5b6666eab2f9b50f7_open-red-ball.avif",
+        "color": "#FF5B55"
+      }
     }
   ]
 }
