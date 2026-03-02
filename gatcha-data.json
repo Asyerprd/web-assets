@@ -21,11 +21,11 @@
       "type": "character",
       "weight": 25,
       "assets": {
-        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec889c6cbcb5ef899a_blue%20ticket.png",
-        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ec7e03cc2bb42663ba_bluecupon.png",
-        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f546b91ffbdb6a5adb_blue-ball.avif",
-        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f6b96b5312837d4ca4_open-blue-ball.avif",
-        "color": "#53BCFF"
+        "cardFront": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecfd1bb2fe74d0b5e7_yellow%20ticket.png",
+        "cardBack": "https://cdn.prod.website-files.com/69837782a89052b71a900618/699567ecebec6cbaa546189a_yellowcupon.png",
+        "gatchaBallClose": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f57ea5275f161c92fe_yellow-ball.avif",
+        "gatchaBallOpened": "https://cdn.prod.website-files.com/69837782a89052b71a900618/698bf5f540fc5cdfe4dad68e_open-yellow-ball.avif",
+        "color": "#fcfb4a"
       }
     },
     {
